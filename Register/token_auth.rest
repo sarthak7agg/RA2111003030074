@@ -1,0 +1,10 @@
+POST http://20.244.56.144/test/auth
+
+{
+  "companyName": "SRMIST",
+  "clientID": "c2608d25-ea68-4efd-83d3-24c7cab1a1fd",
+  "clientSecret": "SquvqMSMLKtvGArE",
+  "ownerName": "Sarthak Aggarwal",
+  "ownerEmail": "sa1846@srmist.edu.in",
+  "rollNo": "RA2111003030074"
+}

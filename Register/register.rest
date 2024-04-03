@@ -1,0 +1,9 @@
+POST http://20.244.56.144/test/register
+
+{
+    "companyName": "SRMIST",
+    "ownerName": "Sarthak Aggarwal",
+    "rollNo": "RA2111003030074",
+    "ownerEmail": "sa1846@srmist.edu.in",
+    "accessCode": "bntKpm"
+}
